@@ -1,0 +1,17 @@
+AstraGarden is a small experimental orbital biodome that orbits 500 kilometers above Earth. 
+The biodome was launched in 2037 as part of an international collaboration to test long-term 
+food production in microgravity. AstraGarden contains three main habitat rings: the Crop Ring, 
+the Research Ring, and the Habitat Ring. The Crop Ring uses rotating sections to simulate 
+partial gravity for soil-based crops like potatoes, dwarf wheat, and leafy greens.
+
+The Research Ring is dedicated to studying plant biology, closed-loop life support systems, 
+and microbial ecosystems. Scientists on AstraGarden run experiments on how root systems 
+develop in low gravity, and how different lighting schedules affect plant growth and nutrient content. 
+Waste from the crew and unused plant matter is recycled through bio-reactors that convert organic matter 
+into fertilizer and usable water, making the station mostly self-sustaining.
+
+The Habitat Ring supports up to twelve crew members at a time and includes living quarters, 
+a small medical bay, exercise facilities, and a panoramic observation deck. Crew members rotate in 
+six-month missions, with a strong focus on mental health and social routines to reduce isolation. 
+AstraGarden's mission is to demonstrate that a small, modular biodome can provide reliable food, 
+clean air, and water for future deep space missions to Mars and beyond.
